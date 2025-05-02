@@ -1,6 +1,6 @@
 This is a folder containing the partially completed data dictionary
 
-| Field | Type | Description |
+| **Field** | **Type** | **Description** |
 | Player Name | Text | Golfer Name |
 | Rounds | Numeric | Number of rounds played during the golf season |
 | Fairway Percentage | Number | Percentage of times a golfer hit the fairway during the golf season |
