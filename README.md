@@ -1,6 +1,6 @@
 # DW-Project
 
-The Data folder holds the Jupyter Notebook containing our project check-in, a .csv file of PGA Tour Data, and a partially completed Data Dictionary.
+The Data folder holds the Jupyter Notebook containing our project report, both .csv files of PGA Tour Data, and our Data Dictionary.
 
 | Plugin | README |
 | ------ | ------ |
